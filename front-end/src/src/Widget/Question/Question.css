@@ -1,0 +1,27 @@
+*{
+    color: #276398a1;
+}
+.sectionTitle{
+    color: #a9bccc;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.questionContainer{
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+.questionAsked{
+    font-style: italic;
+    font-weight: 500;
+    color: #6b8faf;
+}
+.buttonLike{
+    color: rosybrown;
+}
+.userDetails{
+    font-style: italic;
+    display: inline-block;
+    color: #6b8faf;
+}
+
+

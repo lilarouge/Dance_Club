@@ -1,0 +1,19 @@
+ .buttonQuestionList{ 
+    border: none;
+    width: 154px;
+    height: 50px;
+    cursor: pointer;
+    background-color: #54aaf533;
+    color: beige;
+    margin-bottom: 5%;
+    font-family: unset;
+    font-size: 16px;
+ }
+.buttonToSpecificQuestion{
+    cursor: pointer;
+    border-color: #6b8faf;
+    margin-block-end: 10px;
+}
+.answerList{
+    background-color: rosybrown;
+}
